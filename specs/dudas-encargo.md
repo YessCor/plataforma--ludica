@@ -1,0 +1,13 @@
+# Dudas del encargo
+Curso: Matemáticas. Mecánica: Estrellas.
+
+| N.º | Duda | Tipo | Supuesto propuesto | Justificación |
+|---|---|---|---|---|
+| 1 | ¿Qué duración máxima se considera una actividad "rápida"? | Ambigüedad | Cada actividad tendrá un límite estimado de 3 minutos de duración máxima. | Un límite de tiempo corto mantiene la atención de los niños y se ajusta al contexto escolar. |
+| 2 | ¿Cómo se determina la dificultad adecuada para cada niño? | Vacío | La dificultad aumentará de nivel de forma automática según la cantidad de estrellas acumuladas en el bloque anterior. | Permite adaptar el reto progresivamente sin sobrecargar la interfaz de configuración del docente. |
+| 3 | ¿En qué momento y de qué manera debe recibir el niño la indicación de si acertó? | Ambigüedad | La retroalimentación será visual e inmediata en pantalla justo después de hacer clic en enviar la respuesta. | El texto indica que el niño debe saber al instante si acertó para reforzar el aprendizaje operativo. |
+| 4 | ¿Qué debe ocurrir cuando una actividad incluye una respuesta incorrecta? | Vacío | El sistema mostrará un mensaje de error sutil permitiendo un nuevo intento inmediato en la misma pregunta. | Facilita el aprendizaje activo sin penalizar excesivamente al estudiante en las operaciones básicas. |
+| 5 | ¿Qué alcance tiene "crear actividades": qué elementos puede definir el docente? | Ambigüedad | El docente podrá configurar el título de la actividad, la operación matemática y la cantidad de preguntas. | Da el control necesario al profesor sobre el grupo sin requerir una complejidad técnica excesiva para el MVP. |
+| 6 | ¿Cómo se define y mide el tiempo que juegan los niños? | Vacío | Se medirá el tiempo transcurrido desde que se abre la actividad hasta que se presiona el botón de finalizar. | Permite registrar una métrica de tiempo de juego precisa y fácil de almacenar en memoria. |
+| 7 | ¿Al repetir una actividad, cómo se determina si las estrellas nuevas se suman o reemplazan las anteriores? | Ambigüedad | Se conservará siempre la puntuación más alta obtenida entre los intentos realizados por el alumno. | Motiva al estudiante a superar su propia marca sin perder el progreso positivo que ya había alcanzado. |
+| 8 | ¿Qué dispositivos y condiciones de acceso se consideran para la práctica en casa? | Vacío | La interfaz web será responsiva para adaptarse correctamente a pantallas de teléfonos celulares y computadores. | Garantiza que los familiares puedan prestar sus dispositivos móviles para que el niño practique en casa. |

@@ -1,0 +1,7 @@
+Regla de juego: de 1 a 3 estrellas según los aciertos; se puede repetir para mejorar[cite: 43].
+
+Cómo la vive el niño: al terminar una actividad gana entre 1 y 3 estrellas, con una animación y un sonido[cite: 43]. Puede repetir la actividad para conseguir más estrellas y ve el total de estrellas que ha reunido[cite: 43].
+
+Qué ve el docente: las estrellas de cada niño en cada actividad y las actividades que más repiten[cite: 43].
+
+Ejemplo: una actividad con pocas respuestas correctas da 1 estrella; una actividad sin errores da 3[cite: 43].
