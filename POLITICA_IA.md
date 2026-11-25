@@ -9,10 +9,6 @@ Me comprometo a cumplir las siguientes reglas durante el desarrollo de este proy
 5. No guardo secretos en el repositorio: el archivo `.env` está en `.gitignore`.
 6. Defino qué comandos puede ejecutar el agente sin pedirme confirmación:
 
-| Comandos que el agente puede ejecutar sin confirmación | Comandos que requieren mi confirmación |
-| --- | --- |
-| (complete) | (complete) |
-
-**Nombre:** (complete)
-
-**Fecha:** (complete)
+Acepto los términos de esta política.
+Nombre: Yessid Arturo Cordero Mercado
+Fecha: 2026-11-24
